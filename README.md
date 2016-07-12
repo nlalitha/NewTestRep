@@ -1,2 +1,2 @@
 # NewTestRep
-hai
+Welcome to new repository
